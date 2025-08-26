@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Roberto Nicolas Gayozo (Legajo 195282) - nic...@gmail.com
+- Santiago Franqueira (Legajo 200847) - san...@gmail.com
 
 # Contexto / Escenario
 
